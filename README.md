@@ -1,2 +1,2 @@
 # StandardInterfaces
-All the interfaces in one place
+The master repository is reserved for docs and similar things.
