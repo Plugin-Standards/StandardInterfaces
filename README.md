@@ -1,2 +1,2 @@
 # StandardInterfaces
-The master repository is reserved for docs and similar things.
+The master branch is reserved for docs and similar things.
